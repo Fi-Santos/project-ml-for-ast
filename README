@@ -1,1 +1,32 @@
+# Machine Learning approaches for accelerating Antibiotic Susceptibility Testing (AST) in microfluidic systems
 
+Master’s Degree in Bioinformatics - University of Minho  
+Curricular Unit: Project  
+Year: 2026
+
+This repository contains the code, reports, and presentations developed during this project.
+
+## Project Objective
+The objective of this project was to use early time-series data to predict bacterial growth inhibition and reduce the time required to estimate the minimum inhibitory concentration (MIC).
+
+## Repository structure
+|
+├── notebooks/  #(15 Jupyter notebooks covering data analysis, feature engineering, and ML models)
+├── auxiliary_python_files/
+|
+Phase1_ML_approaches_for_AST_Eduarda_Santos.pdf
+Presentation.pdf
+ML_approaches_for_AST_Eduarda_Santos.pdf
+README.md
+
+## Data
+The dataset used in this project originates from a PhD research programme at the University of Bath.
+Due to confidentiality and ongoing research, the dataset is not publicly available.
+As a result, the code is not directly executable without access to the original data.
+
+## Requirements
+- Python 3.12  
+- NumPy  
+- pandas  
+- scikit-learn  
+- matplotlib  
